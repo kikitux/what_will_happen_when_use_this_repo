@@ -9,12 +9,22 @@ what_will_happen_when_use_this_repo
 ## WHAT - [ why ]
 - how
 
-# create security group - to be able to connect to the app and ssh
-- add ingress rule for ssh / 22
-- add ingress rule for http / 80
-- add ingress rule for https / 443
-- add ingress rule for ui / 8080
+### WHAT - [ why ]
+how
 
+## create security group - to be able to connect to the app and ssh
+
+### add ingress rule for ssh / 22
+tbc
+
+### add ingress rule for http / 80
+tbc
+
+### add ingress rule for https / 443
+tbc
+
+### add ingress rule for ui / 8080
+tbc
 
 ## create EC2 - to run TFE
 - login to aws console
